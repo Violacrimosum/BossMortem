@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 3f8c9fcff6c1427448c41d657bd292e2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idleC_polo_0
+    21300002: idleC_polo_1
+    21300004: idleC_polo_2
+    21300006: idleC_polo_3
+    21300008: idleC_polo_4
+    21300010: idleC_polo_5
+    21300012: idleC_polo_6
+    21300014: idleC_polo_7
+    21300016: idleC_polo_8
+    21300018: idleC_polo_9
+    21300020: idleC_polo_10
+    21300022: idleC_polo_11
+    21300024: idleC_polo_12
+    21300026: idleC_polo_13
+    21300028: idleC_polo_14
+    21300030: idleC_polo_15
+    21300032: idleC_polo_16
+    21300034: idleC_polo_17
+    21300036: idleC_polo_18
+    21300038: idleC_polo_19
+    21300040: idleC_polo_20
+    21300042: idleC_polo_21
+    21300044: idleC_polo_22
+    21300046: idleC_polo_23
+    21300048: idleC_polo_24
+    21300050: idleC_polo_25
+    21300052: idleC_polo_26
+    21300054: idleC_polo_27
+    21300056: idleC_polo_28
+    21300058: idleC_polo_29
+    21300060: idleC_polo_30
+    21300062: idleC_polo_31
+    21300064: idleC_polo_32
+    21300066: idleC_polo_33
+    21300068: idleC_polo_34
+    21300070: idleC_polo_35
+    21300072: idleC_polo_36
+    21300074: idleC_polo_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: idleC_polo_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 76
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 76
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 76
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 76
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 76
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 76
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 76
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 76
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_8
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 76
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_9
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 76
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_10
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 76
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_11
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 76
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_12
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 76
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_13
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 76
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_14
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 76
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 76
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_16
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 76
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_17
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 76
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_18
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 76
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 24
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 24
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 24
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 24
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 24
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_24
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 24
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 24
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 24
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_27
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 24
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_28
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 24
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_29
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 24
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_30
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 24
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_31
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 24
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_32
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 24
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_33
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 24
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 24
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_35
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 24
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_36
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 24
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleC_polo_37
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 24
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

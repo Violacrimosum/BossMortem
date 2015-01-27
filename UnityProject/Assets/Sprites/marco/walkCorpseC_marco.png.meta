@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 02fed08b55b63c345a8242e263ad2509
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walkCorpseC_marco_0
+    21300002: walkCorpseC_marco_1
+    21300004: walkCorpseC_marco_2
+    21300006: walkCorpseC_marco_3
+    21300008: walkCorpseC_marco_4
+    21300010: walkCorpseC_marco_5
+    21300012: walkCorpseC_marco_6
+    21300014: walkCorpseC_marco_7
+    21300016: walkCorpseC_marco_8
+    21300018: walkCorpseC_marco_9
+    21300020: walkCorpseC_marco_10
+    21300022: walkCorpseC_marco_11
+    21300024: walkCorpseC_marco_12
+    21300026: walkCorpseC_marco_13
+    21300028: walkCorpseC_marco_14
+    21300030: walkCorpseC_marco_15
+    21300032: walkCorpseC_marco_16
+    21300034: walkCorpseC_marco_17
+    21300036: walkCorpseC_marco_18
+    21300038: walkCorpseC_marco_19
+    21300040: walkCorpseC_marco_20
+    21300042: walkCorpseC_marco_21
+    21300044: walkCorpseC_marco_22
+    21300046: walkCorpseC_marco_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: walkCorpseC_marco_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 76
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 76
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 76
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 76
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 76
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 76
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 76
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 76
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 76
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_9
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 76
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_10
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 76
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_11
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 76
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 24
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 24
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 24
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 24
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 24
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 24
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 24
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_19
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 24
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 24
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_21
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 24
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_22
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 24
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseC_marco_23
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 24
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

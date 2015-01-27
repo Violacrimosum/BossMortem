@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 1a23bea61be035a4fb647c2c196f1c1d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IdleB_marco_0
+    21300002: IdleB_marco_1
+    21300004: IdleB_marco_2
+    21300006: IdleB_marco_3
+    21300008: IdleB_marco_4
+    21300010: IdleB_marco_5
+    21300012: IdleB_marco_6
+    21300014: IdleB_marco_7
+    21300016: IdleB_marco_8
+    21300018: IdleB_marco_9
+    21300020: IdleB_marco_10
+    21300022: IdleB_marco_11
+    21300024: IdleB_marco_12
+    21300026: IdleB_marco_13
+    21300028: IdleB_marco_14
+    21300030: IdleB_marco_15
+    21300032: IdleB_marco_16
+    21300034: IdleB_marco_17
+    21300036: IdleB_marco_18
+    21300038: IdleB_marco_19
+    21300040: IdleB_marco_20
+    21300042: IdleB_marco_21
+    21300044: IdleB_marco_22
+    21300046: IdleB_marco_23
+    21300048: IdleB_marco_24
+    21300050: IdleB_marco_25
+    21300052: IdleB_marco_26
+    21300054: IdleB_marco_27
+    21300056: IdleB_marco_28
+    21300058: IdleB_marco_29
+    21300060: IdleB_marco_30
+    21300062: IdleB_marco_31
+    21300064: IdleB_marco_32
+    21300066: IdleB_marco_33
+    21300068: IdleB_marco_34
+    21300070: IdleB_marco_35
+    21300072: IdleB_marco_36
+    21300074: IdleB_marco_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: IdleB_marco_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 76
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 76
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 76
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 76
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 76
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_11
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_12
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_13
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_14
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_15
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_16
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_17
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_18
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 76
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 24
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 24
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 24
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 24
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 24
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_25
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_26
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_27
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_28
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_29
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_30
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_31
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_32
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_33
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_34
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_35
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_36
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleB_marco_37
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 24
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

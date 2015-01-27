@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: ae5f7f9da423c654088815c0cc315583
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: danceA_marco_0
+    21300002: danceA_marco_1
+    21300004: danceA_marco_2
+    21300006: danceA_marco_3
+    21300008: danceA_marco_4
+    21300010: danceA_marco_5
+    21300012: danceA_marco_6
+    21300014: danceA_marco_7
+    21300016: danceA_marco_8
+    21300018: danceA_marco_9
+    21300020: danceA_marco_10
+    21300022: danceA_marco_11
+    21300024: danceA_marco_12
+    21300026: danceA_marco_13
+    21300028: danceA_marco_14
+    21300030: danceA_marco_15
+    21300032: danceA_marco_16
+    21300034: danceA_marco_17
+    21300036: danceA_marco_18
+    21300038: danceA_marco_19
+    21300040: danceA_marco_20
+    21300042: danceA_marco_21
+    21300044: danceA_marco_22
+    21300046: danceA_marco_23
+    21300048: danceA_marco_24
+    21300050: danceA_marco_25
+    21300052: danceA_marco_26
+    21300054: danceA_marco_27
+    21300056: danceA_marco_28
+    21300058: danceA_marco_29
+    21300060: danceA_marco_30
+    21300062: danceA_marco_31
+    21300064: danceA_marco_32
+    21300066: danceA_marco_33
+    21300068: danceA_marco_34
+    21300070: danceA_marco_35
+    21300072: danceA_marco_36
+    21300074: danceA_marco_37
+    21300076: danceA_marco_38
+    21300078: danceA_marco_39
+    21300080: danceA_marco_40
+    21300082: danceA_marco_41
+    21300084: danceA_marco_42
+    21300086: danceA_marco_43
+    21300088: danceA_marco_44
+    21300090: danceA_marco_45
+    21300092: danceA_marco_46
+    21300094: danceA_marco_47
+    21300096: danceA_marco_48
+    21300098: danceA_marco_49
+    21300100: danceA_marco_50
+    21300102: danceA_marco_51
+    21300104: danceA_marco_52
+    21300106: danceA_marco_53
+    21300108: danceA_marco_54
+    21300110: danceA_marco_55
+    21300112: danceA_marco_56
+    21300114: danceA_marco_57
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: danceA_marco_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 204
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 204
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 204
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 204
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 204
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 204
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 204
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 204
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 204
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 204
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_10
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 204
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 204
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_12
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 204
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 152
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 152
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 152
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 152
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 152
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 152
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_20
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 152
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 152
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 152
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 152
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_24
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 152
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_25
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 152
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_26
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 152
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 100
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 100
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 100
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 100
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 100
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 100
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_33
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 100
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 100
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_35
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 100
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 100
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_37
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 100
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_38
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 100
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_39
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 100
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_40
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 100
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_41
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 100
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 48
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 48
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_44
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 48
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_45
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 48
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_47
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 48
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_48
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 48
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_49
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 48
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_50
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 48
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_51
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 55
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_52
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 48
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_53
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 48
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_54
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 48
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_55
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 48
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_56
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 48
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danceA_marco_57
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 48
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

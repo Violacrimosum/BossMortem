@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 75c1fc7758012d040a8e7060abae3a8d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cleaning_marco_0
+    21300002: cleaning_marco_1
+    21300004: cleaning_marco_2
+    21300006: cleaning_marco_3
+    21300008: cleaning_marco_4
+    21300010: cleaning_marco_5
+    21300012: cleaning_marco_6
+    21300014: cleaning_marco_7
+    21300016: cleaning_marco_8
+    21300018: cleaning_marco_9
+    21300020: cleaning_marco_10
+    21300022: cleaning_marco_11
+    21300024: cleaning_marco_12
+    21300026: cleaning_marco_13
+    21300028: cleaning_marco_14
+    21300030: cleaning_marco_15
+    21300032: cleaning_marco_16
+    21300034: cleaning_marco_17
+    21300036: cleaning_marco_18
+    21300038: cleaning_marco_19
+    21300040: cleaning_marco_20
+    21300042: cleaning_marco_21
+    21300044: cleaning_marco_22
+    21300046: cleaning_marco_23
+    21300048: cleaning_marco_24
+    21300050: cleaning_marco_25
+    21300052: cleaning_marco_26
+    21300054: cleaning_marco_27
+    21300056: cleaning_marco_28
+    21300058: cleaning_marco_29
+    21300060: cleaning_marco_30
+    21300062: cleaning_marco_31
+    21300064: cleaning_marco_32
+    21300066: cleaning_marco_33
+    21300068: cleaning_marco_34
+    21300070: cleaning_marco_35
+    21300072: cleaning_marco_36
+    21300074: cleaning_marco_37
+    21300076: cleaning_marco_38
+    21300078: cleaning_marco_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cleaning_marco_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 204
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 204
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 204
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 204
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 204
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 204
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 204
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 204
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 204
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 152
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 152
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 152
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 152
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 152
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 152
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 152
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 152
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 152
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 152
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 100
+        width: 13
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 100
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 100
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 100
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 100
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_24
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 100
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_25
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 100
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 100
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 100
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 100
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 48
+        width: 13
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 48
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 48
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 48
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 48
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 48
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_35
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 48
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 48
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_37
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 48
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_38
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 48
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cleaning_marco_39
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 48
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 4122ff4b5a4496545ab1db91e9459fdb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: danseA_polo_0
+    21300002: danseA_polo_1
+    21300004: danseA_polo_2
+    21300006: danseA_polo_3
+    21300008: danseA_polo_4
+    21300010: danseA_polo_5
+    21300012: danseA_polo_6
+    21300014: danseA_polo_7
+    21300016: danseA_polo_8
+    21300018: danseA_polo_9
+    21300020: danseA_polo_10
+    21300022: danseA_polo_11
+    21300024: danseA_polo_12
+    21300026: danseA_polo_13
+    21300028: danseA_polo_14
+    21300030: danseA_polo_15
+    21300032: danseA_polo_16
+    21300034: danseA_polo_17
+    21300036: danseA_polo_18
+    21300038: danseA_polo_19
+    21300040: danseA_polo_20
+    21300042: danseA_polo_21
+    21300044: danseA_polo_22
+    21300046: danseA_polo_23
+    21300048: danseA_polo_24
+    21300050: danseA_polo_25
+    21300052: danseA_polo_26
+    21300054: danseA_polo_27
+    21300056: danseA_polo_28
+    21300058: danseA_polo_29
+    21300060: danseA_polo_30
+    21300062: danseA_polo_31
+    21300064: danseA_polo_32
+    21300066: danseA_polo_33
+    21300068: danseA_polo_34
+    21300070: danseA_polo_35
+    21300072: danseA_polo_36
+    21300074: danseA_polo_37
+    21300076: danseA_polo_38
+    21300078: danseA_polo_39
+    21300080: danseA_polo_40
+    21300082: danseA_polo_41
+    21300084: danseA_polo_42
+    21300086: danseA_polo_43
+    21300088: danseA_polo_44
+    21300090: danseA_polo_45
+    21300092: danseA_polo_46
+    21300094: danseA_polo_47
+    21300096: danseA_polo_48
+    21300098: danseA_polo_49
+    21300100: danseA_polo_50
+    21300102: danseA_polo_51
+    21300104: danseA_polo_52
+    21300106: danseA_polo_53
+    21300108: danseA_polo_54
+    21300110: danseA_polo_55
+    21300112: danseA_polo_56
+    21300114: danseA_polo_57
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: danseA_polo_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 204
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 204
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 204
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 204
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 204
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 204
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 204
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 204
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 204
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 204
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_10
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 204
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 204
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_12
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 204
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 152
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 152
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 152
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 152
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 152
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 152
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_20
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 152
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 152
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 152
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 152
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_24
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 152
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_25
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 152
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_26
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 152
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 100
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 100
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 100
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 100
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 100
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 100
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_33
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 100
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 100
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_35
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 100
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 100
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_37
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 100
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_38
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 100
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_39
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 100
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_40
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 100
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_41
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 100
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 48
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 48
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_44
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 48
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_45
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 48
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_47
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 48
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_48
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 48
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_49
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 48
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_50
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 48
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_51
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 55
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_52
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 48
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_53
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 48
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_54
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 48
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_55
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 48
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_56
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 48
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: danseA_polo_57
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 48
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

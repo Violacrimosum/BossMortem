@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 926cfcb31e6acb54e94ae6b374af1ab0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: puppetA_marco_0
+    21300002: puppetA_marco_1
+    21300004: puppetA_marco_2
+    21300006: puppetA_marco_3
+    21300008: puppetA_marco_4
+    21300010: puppetA_marco_5
+    21300012: puppetA_marco_6
+    21300014: puppetA_marco_7
+    21300016: puppetA_marco_8
+    21300018: puppetA_marco_9
+    21300020: puppetA_marco_10
+    21300022: puppetA_marco_11
+    21300024: puppetA_marco_12
+    21300026: puppetA_marco_13
+    21300028: puppetA_marco_14
+    21300030: puppetA_marco_15
+    21300032: puppetA_marco_16
+    21300034: puppetA_marco_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: puppetA_marco_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 12
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 12
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 12
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 12
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 12
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 12
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 12
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_9
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 12
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 12
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 12
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_12
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 12
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_13
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 12
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_14
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 12
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_15
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 12
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_16
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 12
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_marco_17
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 12
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

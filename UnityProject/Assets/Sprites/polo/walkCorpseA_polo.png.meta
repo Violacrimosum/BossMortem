@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 434e79f8f1b48f74b9d3ef94232815df
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walkCorpseA_polo_0
+    21300002: walkCorpseA_polo_1
+    21300004: walkCorpseA_polo_2
+    21300006: walkCorpseA_polo_3
+    21300008: walkCorpseA_polo_4
+    21300010: walkCorpseA_polo_5
+    21300012: walkCorpseA_polo_6
+    21300014: walkCorpseA_polo_7
+    21300016: walkCorpseA_polo_8
+    21300018: walkCorpseA_polo_9
+    21300020: walkCorpseA_polo_10
+    21300022: walkCorpseA_polo_11
+    21300024: walkCorpseA_polo_12
+    21300026: walkCorpseA_polo_13
+    21300028: walkCorpseA_polo_14
+    21300030: walkCorpseA_polo_15
+    21300032: walkCorpseA_polo_16
+    21300034: walkCorpseA_polo_17
+    21300036: walkCorpseA_polo_18
+    21300038: walkCorpseA_polo_19
+    21300040: walkCorpseA_polo_20
+    21300042: walkCorpseA_polo_21
+    21300044: walkCorpseA_polo_22
+    21300046: walkCorpseA_polo_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: walkCorpseA_polo_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 76
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 76
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 76
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 76
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 76
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 76
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 76
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 76
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 76
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_9
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 76
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_10
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 76
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_11
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 76
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 24
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 24
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 24
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 24
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 24
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 24
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 24
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 24
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 24
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_21
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 24
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_22
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 24
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkCorpseA_polo_23
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 24
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

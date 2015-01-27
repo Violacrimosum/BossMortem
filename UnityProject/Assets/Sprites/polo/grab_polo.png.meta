@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 336c24ee54aefa14e99ecab319e212c5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: grab_polo_0
+    21300002: grab_polo_1
+    21300004: grab_polo_2
+    21300006: grab_polo_3
+    21300008: grab_polo_4
+    21300010: grab_polo_5
+    21300012: grab_polo_6
+    21300014: grab_polo_7
+    21300016: grab_polo_8
+    21300018: grab_polo_9
+    21300020: grab_polo_10
+    21300022: grab_polo_11
+    21300024: grab_polo_12
+    21300026: grab_polo_13
+    21300028: grab_polo_14
+    21300030: grab_polo_15
+    21300032: grab_polo_16
+    21300034: grab_polo_17
+    21300036: grab_polo_18
+    21300038: grab_polo_19
+    21300040: grab_polo_20
+    21300042: grab_polo_21
+    21300044: grab_polo_22
+    21300046: grab_polo_23
+    21300048: grab_polo_24
+    21300050: grab_polo_25
+    21300052: grab_polo_26
+    21300054: grab_polo_27
+    21300056: grab_polo_28
+    21300058: grab_polo_29
+    21300060: grab_polo_30
+    21300062: grab_polo_31
+    21300064: grab_polo_32
+    21300066: grab_polo_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: grab_polo_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 76
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 76
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 76
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 76
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 76
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 76
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 76
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 76
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 76
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 76
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 76
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_12
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 76
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_13
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 76
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_14
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 76
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_15
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 76
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_polo_16
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 76
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

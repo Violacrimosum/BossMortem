@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: dc1e188f5749616439558d079fade85e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: puppetA_polo_0
+    21300002: puppetA_polo_1
+    21300004: puppetA_polo_2
+    21300006: puppetA_polo_3
+    21300008: puppetA_polo_4
+    21300010: puppetA_polo_5
+    21300012: puppetA_polo_6
+    21300014: puppetA_polo_7
+    21300016: puppetA_polo_8
+    21300018: puppetA_polo_9
+    21300020: puppetA_polo_10
+    21300022: puppetA_polo_11
+    21300024: puppetA_polo_12
+    21300026: puppetA_polo_13
+    21300028: puppetA_polo_14
+    21300030: puppetA_polo_15
+    21300032: puppetA_polo_16
+    21300034: puppetA_polo_17
+    21300036: puppetA_polo_18
+    21300038: puppetA_polo_19
+    21300040: puppetA_polo_20
+    21300042: puppetA_polo_21
+    21300044: puppetA_polo_22
+    21300046: puppetA_polo_23
+    21300048: puppetA_polo_24
+    21300050: puppetA_polo_25
+    21300052: puppetA_polo_26
+    21300054: puppetA_polo_27
+    21300056: puppetA_polo_28
+    21300058: puppetA_polo_29
+    21300060: puppetA_polo_30
+    21300062: puppetA_polo_31
+    21300064: puppetA_polo_32
+    21300066: puppetA_polo_33
+    21300068: puppetA_polo_34
+    21300070: puppetA_polo_35
+    21300072: puppetA_polo_36
+    21300074: puppetA_polo_37
+    21300076: puppetA_polo_38
+    21300078: puppetA_polo_39
+    21300080: puppetA_polo_40
+    21300082: puppetA_polo_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: puppetA_polo_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 204
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 204
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 204
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 204
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 204
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 204
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 204
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_7
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 204
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 204
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 152
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 152
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 152
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 152
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 152
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 152
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_16
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 152
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 152
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 152
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 100
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 100
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 100
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 100
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 100
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 100
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 100
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_26
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 100
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_27
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 100
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_28
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 100
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_29
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 100
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 48
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 48
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 48
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 48
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_34
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 48
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_35
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 48
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_37
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 48
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 48
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_39
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 48
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_40
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 48
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puppetA_polo_41
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 48
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

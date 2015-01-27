@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 58b104aecaeee7e499aebeb19d267a95
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: grab_marco_0
+    21300002: grab_marco_1
+    21300004: grab_marco_2
+    21300006: grab_marco_3
+    21300008: grab_marco_4
+    21300010: grab_marco_5
+    21300012: grab_marco_6
+    21300014: grab_marco_7
+    21300016: grab_marco_8
+    21300018: grab_marco_9
+    21300020: grab_marco_10
+    21300022: grab_marco_11
+    21300024: grab_marco_12
+    21300026: grab_marco_13
+    21300028: grab_marco_14
+    21300030: grab_marco_15
+    21300032: grab_marco_16
+    21300034: grab_marco_17
+    21300036: grab_marco_18
+    21300038: grab_marco_19
+    21300040: grab_marco_20
+    21300042: grab_marco_21
+    21300044: grab_marco_22
+    21300046: grab_marco_23
+    21300048: grab_marco_24
+    21300050: grab_marco_25
+    21300052: grab_marco_26
+    21300054: grab_marco_27
+    21300056: grab_marco_28
+    21300058: grab_marco_29
+    21300060: grab_marco_30
+    21300062: grab_marco_31
+    21300064: grab_marco_32
+    21300066: grab_marco_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: grab_marco_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 76
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 76
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 76
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 76
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 76
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 76
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 76
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 76
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 76
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 76
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 76
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_12
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 76
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_13
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 76
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_14
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 76
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_15
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 76
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_16
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 76
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 24
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 24
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 24
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 24
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 24
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 24
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 24
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 24
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_25
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 24
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 24
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_27
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 24
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_28
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 24
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_29
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 24
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_30
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 24
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_31
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 24
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_32
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 24
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grab_marco_33
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 24
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

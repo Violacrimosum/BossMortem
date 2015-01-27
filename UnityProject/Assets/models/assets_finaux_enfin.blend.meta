@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 6df88d21169db5f42beb1cc6a9a4dd98
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bureau
+    100004: chaise
+    100006: Cube
+    100008: filing_cabinet
+    100010: mur_alcove
+    100012: mur_backroom
+    100014: mur_droite
+    100016: mur_monte-plateau
+    100018: mur_simple
+    100020: placard
+    100022: porte
+    100024: radio
+    100026: tableau
+    400000: //RootNode
+    400002: bureau
+    400004: chaise
+    400006: Cube
+    400008: filing_cabinet
+    400010: mur_alcove
+    400012: mur_backroom
+    400014: mur_droite
+    400016: mur_monte-plateau
+    400018: mur_simple
+    400020: placard
+    400022: porte
+    400024: radio
+    400026: tableau
+    2300000: bureau
+    2300002: chaise
+    2300004: Cube
+    2300006: filing_cabinet
+    2300008: mur_alcove
+    2300010: mur_backroom
+    2300012: mur_droite
+    2300014: mur_monte-plateau
+    2300016: mur_simple
+    2300018: placard
+    2300020: porte
+    2300022: radio
+    2300024: tableau
+    3300000: bureau
+    3300002: chaise
+    3300004: Cube
+    3300006: filing_cabinet
+    3300008: mur_alcove
+    3300010: mur_backroom
+    3300012: mur_droite
+    3300014: mur_monte-plateau
+    3300016: mur_simple
+    3300018: placard
+    3300020: porte
+    3300022: radio
+    3300024: tableau
+    4300000: Cube
+    4300002: radio
+    4300004: mur_monte-plateau
+    4300006: mur_alcove
+    4300008: chaise
+    4300010: filing_cabinet
+    4300012: porte
+    4300014: mur_backroom
+    4300016: mur_simple
+    4300018: placard
+    4300020: tableau
+    4300022: mur_droite
+    4300024: bureau
+    6400000: bureau
+    6400002: chaise
+    6400004: Cube
+    6400006: filing_cabinet
+    6400008: mur_alcove
+    6400010: mur_backroom
+    6400012: mur_droite
+    6400014: mur_monte-plateau
+    6400016: mur_simple
+    6400018: placard
+    6400020: porte
+    6400022: radio
+    6400024: tableau
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 8
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
